@@ -4,7 +4,7 @@
 **********************************/
 
 //GLOBAL VARIABLES
-var mycounterbalance = Math.floor(Math.random() * 2) + 1; //have 16 subjects' story version left to collect causal rating on 
+var mycounterbalance = 1; //Math.floor(Math.random() * 2) + 1; //have 16 subjects' story version left to collect causal rating on 
 
 // set route_vector and choice_vector variables
 if (mycounterbalance == 1) {
